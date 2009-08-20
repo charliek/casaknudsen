@@ -1,0 +1,78 @@
+.header {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #017978;
+	font-style: normal;
+}
+
+#bodyDiv {
+padding: 12px;
+}
+
+#iconDiv {
+padding-left: 0px;
+padding-top: 12px;
+}
+
+.copyright, .termsCopy {
+	font-family: "Verdana", arial, sans;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+	font-style: normal;
+	line-height: normal;
+	padding-left: 30px;
+}
+
+.termsCopy {
+	padding-left: 0px;
+}
+
+.bodyCopy {
+	font-family: "Verdana", arial, sans;
+	font-size: 12px;
+	font-weight: normal;
+	color: #ffffff;
+	font-style: normal;
+	line-height: normal;
+}
+.subheader {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #01797A;
+	line-height: normal;
+}
+.caption2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #01797A;
+}
+.caption1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+}
+.bodycaption {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	line-height: 14px;
+}
+
+a:link {
+	color: #666666;
+}
+a:visited {
+	color: #666666;
+}
+a:active {
+	color: #666666;
+}
